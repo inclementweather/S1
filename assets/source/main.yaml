@@ -18,6 +18,7 @@ external_components:
       url: https://github.com/inclementweather/S1.git
       ref: main
       path: assets/source
+      components: [s1]
     
 esp32:
   board: esp32-s3-devkitc-1
